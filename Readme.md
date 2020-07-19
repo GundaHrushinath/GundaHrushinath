@@ -17,7 +17,7 @@
 
 
 ### Hi,
-### I'm 19 years old Self-taught Web-Developer from India.
+### I'm 19 years old Self-taught Programmer from India.
 
 
 ### The Repositories here are might useful or not, but those are obtained with my sincere efforts.
