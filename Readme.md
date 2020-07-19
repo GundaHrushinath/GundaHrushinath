@@ -1,4 +1,4 @@
-### Hi there, I'm [Gunda Hrushinath](https://gundahrushinath.github.io/) ðŸ‘‹.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Gunda Hrushinath](https://gundahrushinath.github.io/)‹.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
@@ -44,5 +44,5 @@
 
 #### --Thank You---
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/LmHvvCiMaOkxxlhIQk/giphy.gif" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/LmHvvCiMaOkxxlhIQk/giphy.gif" />
 <br />
