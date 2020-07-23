@@ -27,7 +27,7 @@
 <br />
 
 
-**I am Into,
+**I am Into,**
 
 **Machine Learning, Web Development, SEO, Micro Services, Competitive Programming**
 <br />
