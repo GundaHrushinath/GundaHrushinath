@@ -15,8 +15,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=GundaHrushinath.GundaHrushinath)
 
 
-
-### Hello,
 ### I'm 19 years old Self-taught Programmer from India.
 
 
