@@ -43,5 +43,5 @@
 
 #### --Thank You---
 <br />
-<img align="center" height="270px" width="450px" alt="GIF" src="https://github.com/GundaHrushinath/GundaHrushinath/blob/master/Thank%20you.gif" />
+<img align="center" alt="GIF" src="https://github.com/GundaHrushinath/GundaHrushinath/blob/master/Thank%20you.gif" />
 <br />
