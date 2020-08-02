@@ -43,5 +43,5 @@
 
 #### --Thank You---
 <br />
-<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/LmHvvCiMaOkxxlhIQk/giphy.gif" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://github.com/GundaHrushinath/GundaHrushinath/blob/master/My_Name_logo.gif" />
 <br />
