@@ -21,8 +21,6 @@
 
 ### The Repositories here are might useful or not, but those are obtained with my sincere efforts.
 
-### Thank You...
-
 <br />
 
 
