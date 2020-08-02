@@ -1,4 +1,4 @@
-[![Header]([![Header](https://github.com/GundaHrushinath/GundaHrushinath/blob/master/My_Name_logo.gif "Header")]
+[![Header](https://github.com/GundaHrushinath/GundaHrushinath/blob/master/My_Name_logo.gif)](https://martinheinz.dev/)
 ### Hi there, I'm [Gunda Hrushinath](https://gundahrushinath.github.io/).  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
