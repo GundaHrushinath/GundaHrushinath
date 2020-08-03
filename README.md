@@ -39,7 +39,3 @@
 </p>
 
 ***********************************
-
-<br />
-<img align="center" alt="GIF" src="https://github.com/GundaHrushinath/GundaHrushinath/blob/master/Thank%20you.gif" />
-<br />
