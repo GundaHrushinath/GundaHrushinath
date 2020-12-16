@@ -27,7 +27,7 @@
 
 **I am Into,**
 
-**Machine Learning, Web Development, SEO, Micro Services, Competitive Programming**
+**Machine Learning, Web Development, SEO, Competitive Programming**
 <br />
 
 *************
